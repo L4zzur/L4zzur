@@ -9,6 +9,19 @@
 - 📥 Со мной можно связаться через [![Gmail Badge](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:popovnikita01@gmail.com) или написать в [![Telegram Badge](https://img.shields.io/badge/L4zzur-lightblue?logo=telegram)](https://t.me/L4zzur)
 
 ### Инструменты, которые я использую:
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Formatter: black](https://img.shields.io/badge/formatter-black-000000?style=for-the-badge)](https://github.com/psf/black)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://aiogram.dev/)
+[![PyQt](https://img.shields.io/badge/PyQt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://wiki.qt.io/Qt_for_Python)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)]()
+[![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)]()
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
 
 
 ### ✉️ Социальные сети:
