@@ -8,6 +8,9 @@
 - 🔭 Работаю над созданием редактора музыкальных тэгов, вики-системы для Алгоритмики и обертки над Monstercat API.
 - 📥 Со мной можно связаться через [![Gmail Badge](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:popovnikita01@gmail.com) или написать в [![Telegram Badge](https://img.shields.io/badge/L4zzur-lightblue?logo=telegram)](https://t.me/L4zzur)
 
+### Инструменты, которые я использую:
+
+
 ### ✉️ Социальные сети:
 <div>
   <a href="https://t.me/L4zzur">
