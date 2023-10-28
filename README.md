@@ -26,16 +26,16 @@
 
 ### ✉️ Социальные сети:
 <div>
-  <a href="https://t.me/L4zzur">
-    <img src="https://github.com/L4zzur/L4zzur/assets/66362624/2e98ba98-ec8c-4e88-a822-132fbe72e651" width="40" height="40"/>
+  <a href="https://t.me/L4zzur" rel="nofollow">
+    <img src="https://github.com/L4zzur/L4zzur/assets/66362624/2e98ba98-ec8c-4e88-a822-132fbe72e651" width="40" height="40">
   </a>
   <a href="https://vk.com/L4zzur">
-    <img src="https://github.com/L4zzur/L4zzur/assets/66362624/0df40081-31d5-47d8-b614-4e7fc13a8f97" width="40" height="40"/>
+    <img src="https://github.com/L4zzur/L4zzur/assets/66362624/0df40081-31d5-47d8-b614-4e7fc13a8f97" width="40" height="40">
   </a>
   <a href="https://instagr.am/L4zzur">
-    <img src="https://github.com/L4zzur/L4zzur/assets/66362624/c42009e0-9ae3-4c57-8725-559b34bb8fb3" width="40" height="40"/>
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66362624/278768227-c42009e0-9ae3-4c57-8725-559b34bb8fb3.png" alt="Instagram Badge" width="40" height="40">
   </a>
   <a href="https://spoti.fi/3ysqUa1">
-    <img src="https://github.com/L4zzur/L4zzur/assets/66362624/4568993e-f2d8-45d4-89de-35796edc9c02" width="40" height="40"/>
+    <img src="" width="40" height="40">
   </a>
 </div>
