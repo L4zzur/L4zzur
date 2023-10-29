@@ -41,5 +41,5 @@
   </a>
 </div>
 
-### Codewars:
+### ⚔️ Codewars:
 [![codewars](https://www.codewars.com/users/L4zzur/badges/large)](https://www.codewars.com/users/L4zzur)
