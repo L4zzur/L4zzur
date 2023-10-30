@@ -8,6 +8,7 @@
 - 🔭 Работаю над созданием редактора музыкальных тэгов, вики-системы для Алгоритмики и обертки над Monstercat API.
 - 📥 Со мной можно связаться через [![Gmail Badge](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:popovnikita01@gmail.com) или написать в [![Telegram Badge](https://img.shields.io/badge/L4zzur-lightblue?logo=telegram)](https://t.me/L4zzur)
 
+---
 ### 🛠️ Инструменты, которые я использую:
 #### Языки:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -33,7 +34,7 @@
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white "Windows 11")]()
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white "Linux Manjaro")](https://manjaro.org/)
 
-
+---
 ### ✉️ Социальные сети:
 <div>
     <a href="https://gitlab.com/L4zzur">
@@ -56,5 +57,14 @@
     </a>
 </div>
 
-### ⚔️ Codewars:
+---
+### 🏆 Достижения:
+#### ⚔️ Codewars:
 [![codewars](https://www.codewars.com/users/L4zzur/badges/large)](https://www.codewars.com/users/L4zzur)
+#### 🛡️ Leetcode:
+[![LeetCode user L4zzur](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FL4zzur&logo=leetcode&logoColor=yellow)](https://leetcode.com/L4zzur/)
+
+### ⌨️ Статистика:
+| ![Моя активность на GitHub](https://github-readme-activity-graph.vercel.app/graph?username=L4zzur&theme=github-compact) | ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=L4zzur&layout=compact&theme=dark)<br>![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=L4zzur&theme=dark&background=000000)| 
+| :---------- | :---------- |
+
