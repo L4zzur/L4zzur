@@ -24,6 +24,7 @@
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white "SQLite DataBase")](https://www.sqlite.org)
 #### Системы контроля версий:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "You're here!")](https://github.com/)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git Version Control")](https://git-scm.com/)
 #### Работа с текстом
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white "Obsidian Markdown Editor")](https://obsidian.md/)
@@ -35,6 +36,9 @@
 
 ### ✉️ Социальные сети:
 <div>
+    <a href="https://gitlab.com/L4zzur">
+        <img src="gitlab.png" title="Gitlab" alt="Gitlab Badge" width="40" height="40">
+    </a>
     <a href="https://t.me/L4zzur">
         <img src="tg.png" title="Telegram" alt="Telegram Badge" width="40" height="40">
     </a>
