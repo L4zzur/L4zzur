@@ -28,19 +28,19 @@
 ### ✉️ Социальные сети:
 <div>
     <a href="https://t.me/L4zzur">
-        <img src="tg.png" title="Telegram" width="40" height="40">
+        <img src="tg.png" title="Telegram" alt="Telegram Badge" width="40" height="40">
     </a>
     <a href="https://vk.com/L4zzur">
-        <img src="vk.png" title="VK" width="40" height="40">
+        <img src="vk.png" title="VK" alt="VK Badge" width="40" height="40">
     </a>
     <a href="https://instagr.am/L4zzur">
         <img src="inst.png" title="Instagram" alt="Instagram Badge" width="40" height="40">
     </a>
     <a href="https://spoti.fi/3ysqUa1">
-        <img src="spotify.png" title="Spotify" width="40" height="40">
+        <img src="spotify.png" title="Spotify" alt="Spotify Badge" width="40" height="40">
     </a>
     <a href="https://dsc.bio/l4zzur">
-        <img src="discord.png" title="Discord" width="40" height="40">
+        <img src="discord.png" title="Discord" alt="Discord Badge" width="40" height="40">
     </a>
 </div>
 
