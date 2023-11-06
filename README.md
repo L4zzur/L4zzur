@@ -2,7 +2,15 @@
 
 
 ---
-![](https://komarev.com/ghpvc/?username=L4zzur&color=blueviolet) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qwmjy2icfk2wfas68imr4msml&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=qwmjy2icfk2wfas68imr4msml&redirect=true)
+
+<div>
+    <img src="https://komarev.com/ghpvc/?username=L4zzur&color=blueviolet" alt="Profile Counter" align="right">
+    <a href="https://spoti.fi/3ysqUa1" target="_blank">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=qwmjy2icfk2wfas68imr4msml&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing">
+        <!-- https://github.com/kittinan/spotify-github-profile/tree/master -->
+    </a>
+</div>
+
 ### 👨‍💻 Немного обо мне:
 Студент направления Компьютерная безопасность, Python программист и огромный поклонник музыки из России, Калининград
 - 🌱 Изучаю разработку бэкенда на Flask и создание приложений на PySide6.
