@@ -24,7 +24,7 @@
 [![Formatter: black](https://img.shields.io/badge/formatter-black-000000?style=for-the-badge "formatter black")](https://github.com/psf/black)
 #### Среда разработки:
 [![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "VSCode IDE")](https://code.visualstudio.com/)
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black "Notepad++ text editor")](https://notepad-plus-plus.org/)
+[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/) (Я пока только учусь им пользоваться!)
 #### Библиотеки:
 [![Aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram Bot API Wrapper")](https://aiogram.dev/)
 [![PyQt](https://img.shields.io/badge/PyQt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white "Qt for Python")](https://wiki.qt.io/Qt_for_Python)
