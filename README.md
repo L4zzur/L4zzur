@@ -68,6 +68,8 @@
 
 ---
 ### 🏆 Достижения:
+#### 🤖 Codeium:
+[![autocomplete](https://codeium.com/badges/user/l4zzur/autocomplete)](https://codeium.com/profile/l4zzur)
 #### ⚔️ Codewars:
 [![codewars](https://www.codewars.com/users/L4zzur/badges/large)](https://www.codewars.com/users/L4zzur)
 #### 🛡️ Leetcode:
