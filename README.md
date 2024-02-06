@@ -27,7 +27,6 @@
 #### Библиотеки:
 [![Aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram Bot API Wrapper")](https://aiogram.dev/)
 [![PyQt](https://img.shields.io/badge/PyQt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white "Qt for Python")](https://wiki.qt.io/Qt_for_Python)
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white "Flask Web Framework")](https://flask.palletsprojects.com/)
 #### Базы данных:
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white "Mongo NoSQL DataBase")](https://www.mongodb.com)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white "SQLite DataBase")](https://www.sqlite.org)
