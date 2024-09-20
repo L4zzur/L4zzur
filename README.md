@@ -1,6 +1,5 @@
 ![image](https://github.com/L4zzur/L4zzur/assets/66362624/304ccd9c-516a-4d0a-823f-8f7eaf2e2c32)
 
-
 ---
 
 ### 👨‍💻 Немного обо мне:
@@ -59,6 +58,8 @@
         <img src="discord.png" title="Discord" alt="Discord Badge" width="40" height="40">
     </a>
 </div>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/273492229794824192)](https://discord.com/users/273492229794824192)
 
 ---
 ### 🏆 Достижения:
