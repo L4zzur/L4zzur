@@ -12,6 +12,7 @@ Python программист и огромный поклонник музык�
 #### Языки:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 #### Инструменты разработки:
+[![uv](https://img.shields.io/badge/uv-uv?style=for-the-badge&logo=uv&color=%23261230)](https://docs.astral.sh/uv/)
 [![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)](https://python-poetry.org/)
 [![Formatter: black](https://img.shields.io/badge/formatter-black-000000?style=for-the-badge "formatter black")](https://github.com/psf/black)
 [![Testing: pytest](https://img.shields.io/badge/Testing-pytest-blue?style=for-the-badge "testing pytest")](https://docs.pytest.org/)
