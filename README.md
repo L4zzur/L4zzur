@@ -60,17 +60,6 @@ Python программист и огромный поклонник музык�
     </a>
 </div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/273492229794824192)](https://discord.com/users/273492229794824192)
-
----
-### 🏆 Достижения:
-#### 🤖 Codeium:
-[![autocomplete](https://codeium.com/badges/user/l4zzur/autocomplete)](https://codeium.com/profile/l4zzur)
-#### ⚔️ Codewars:
-[![codewars](https://www.codewars.com/users/L4zzur/badges/large)](https://www.codewars.com/users/L4zzur)
-#### 🛡️ Leetcode:
-[![LeetCode user L4zzur](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FL4zzur&logo=leetcode&logoColor=yellow)](https://leetcode.com/L4zzur/)
-
 ### ⌨️ Статистика:
 | ![Моя активность на GitHub](https://github-readme-activity-graph.vercel.app/graph?username=L4zzur&theme=github-compact) | ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=L4zzur&layout=compact&theme=dark)<br>![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=L4zzur&theme=dark&background=000000)| 
 | :---------- | :---------- |
