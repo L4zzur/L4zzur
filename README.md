@@ -37,28 +37,6 @@ Python программист и огромный поклонник музык�
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white "Windows 11")]()
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
 
----
-### ✉️ Социальные сети:
-<div>
-    <a href="https://t.me/L4zzur">
-        <img src="tg.png" title="Telegram" alt="Telegram Badge" width="40" height="40">
-    </a>
-    <a href="https://gitlab.com/L4zzur">
-        <img src="gitlab.png" title="Gitlab" alt="Gitlab Badge" width="40" height="40">
-    </a>
-    <a href="https://vk.com/L4zzur">
-        <img src="vk.png" title="VK" alt="VK Badge" width="40" height="40">
-    </a>
-    <a href="https://instagr.am/L4zzur">
-        <img src="inst.png" title="Instagram" alt="Instagram Badge" width="40" height="40">
-    </a>
-    <a href="https://spoti.fi/3ysqUa1">
-        <img src="spotify.png" title="Spotify" alt="Spotify Badge" width="40" height="40">
-    </a>
-    <a href="https://dsc.bio/l4zzur">
-        <img src="discord.png" title="Discord" alt="Discord Badge" width="40" height="40">
-    </a>
-</div>
 
 ### ⌨️ Статистика:
 | ![Моя активность на GitHub](https://github-readme-activity-graph.vercel.app/graph?username=L4zzur&theme=github-compact) | ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=L4zzur&layout=compact&theme=dark)<br>![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=L4zzur&theme=dark&background=000000)| 
