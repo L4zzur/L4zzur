@@ -42,28 +42,31 @@ It simulates a Telegram cafe bot and uses FastStream, RabbitMQ and FastAPI for c
 
 ## Stack
 
-### Backend
-
-Python · FastAPI · SQLAlchemy · Pydantic · Alembic · httpx · aiogram · pytest · uv · ruff · ty
-
-### Frontend
-
-TypeScript · Svelte 5 · SvelteKit · Bits UI · shadcn-svelte · Tailwind CSS · M3 Svelte
-
-### DevOps
-
-Linux · Docker · Docker Compose · Caddy · Nginx · Git · GitHub Actions
-
-### Databases
-
-SQLite · PostgreSQL · MongoDB · Redis
-
-### Other
-
-Obsidian · Antigravity · Codex · Figma · Inkscape · Teaching
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Python · FastAPI · SQLAlchemy · Pydantic · Alembic · httpx · aiogram · pytest · uv · ruff · ty</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>TypeScript · Svelte 5 · SvelteKit · Bits UI · shadcn-svelte · Tailwind CSS · M3 Svelte</td>
+  </tr>
+  <tr>
+    <td><strong>DevOps</strong></td>
+    <td>Linux · Docker · Docker Compose · Caddy · Nginx · Git · GitHub Actions</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>SQLite · PostgreSQL · MongoDB · Redis</td>
+  </tr>
+  <tr>
+    <td><strong>Other</strong></td>
+    <td>Obsidian · Antigravity · Codex · Figma · Inkscape · Teaching</td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <sub><i>Some things in life are too simple.</i></sub>
+  <sub><i>Some things in life are too simple</i></sub>
 </p>
